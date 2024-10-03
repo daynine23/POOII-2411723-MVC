@@ -7,7 +7,7 @@ package formulario_mvc.models;
 
 /**
  *
- * @author USUARIO
+ * @author DAYNINE
  */
 public enum Genre {
     
